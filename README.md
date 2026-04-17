@@ -1,7 +1,7 @@
 # Smart Plant Identification and Agricultural Guidance System
 This project identifies plants using leaf images and provides useful agricultural information. The system shows plants details such as growth rate, insects attracted, market value, best location to grow, products made from the plant and protection methods.It helps students and farmers understand plant characteristics and cultivation methods.
 # Features
--Plant identification using leaf image
+Plant identification using leaf image
 -Growth rate information
 -Insects attracted to the plant
 -Harmful insects affecting the plant
