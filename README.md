@@ -1,10 +1,2 @@
 # Plant-Leaf-Disease-Detection
-This project is a simple java based system that detects plant leaf diseases such as rust and blight and suggests treatment.
-Technologies used 
-Java
-GitHub and 
-Features like
-Detects plant leaf diseases
-Provides treatment Suggestions
-Simple console based program
-
+This project is a Java based application that detects plant leaf diseases such as rust and blight and provides basic treatment suggestions. It demonstrate how java programming can be used to build a simple system to help identify plant diseases and support agricultural solutions
