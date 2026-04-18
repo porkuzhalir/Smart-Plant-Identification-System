@@ -47,7 +47,32 @@ public class PlantIdentification {
             System.out.println("\nBenefits for Humans:");
             System.out.println("Used for medicine, skin treatment, agriculture pesticides, and herbal products.");
         }
+            else if (plant.equalsIgnoreCase("Tulsi")) {
 
+    System.out.println("\nPlant Identification Result");
+    System.out.println("---------------------------");
+
+    System.out.println("\nPlant Name: Tulsi");
+
+    System.out.println("\nBasic Information:");
+    System.out.println("Tulsi is a sacred medicinal plant widely used in Ayurveda.");
+
+    System.out.println("\nProducts Made From This Plant:");
+    System.out.println("Herbal tea, medicine, immunity boosters.");
+
+    System.out.println("\nAgricultural Information:");
+    System.out.println("Best Location to Grow: Tropical climate.");
+
+    System.out.println("\nGrowth Details:");
+    System.out.println("Growth Height: 1-3 feet");
+    System.out.println("Growth Rate: Fast growth");
+
+    System.out.println("\nWater Requirement:");
+    System.out.println("Needs moderate watering.");
+
+    System.out.println("\nBenefits for Humans:");
+    System.out.println("Improves immunity and used in herbal medicine.");
+}   
         else {
             System.out.println("Plant data not available.");
         }
