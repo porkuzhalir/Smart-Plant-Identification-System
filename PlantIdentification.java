@@ -1,5 +1,3 @@
-
-```java
 import java.util.Scanner;
 
 public class PlantIdentification {
@@ -357,4 +355,4 @@ public class PlantIdentification {
         System.out.println("https://upload.wikimedia.org/wikipedia/commons/3/3a/Jasminum_sambac_flower.jpg");
     }
 }
-```
+
